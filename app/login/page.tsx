@@ -99,7 +99,7 @@ export default function LoginPage() {
             </div>
 
             <Image
-              src="/placeholder.svg?height=500&width=500"
+              src="/barbie.jpg?height=500&width=500"
               alt="Login illustration"
               width={500}
               height={500}
