@@ -1,4 +1,3 @@
-````markdown
 # Pomdoll
 
 Pomdoll is a web-based Pomodoro timer application designed to enhance productivity through structured work and break intervals. Built with modern web technologies, it offers a sleek and responsive user interface.
