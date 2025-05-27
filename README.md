@@ -33,7 +33,7 @@ Experience Pomdoll in action: [https://pomdoll.vercel.app](https://pomdoll.verce
 1. Clone the repository:
    ```bash
    git clone https://github.com/shivah12/pomdoll.git
-````
+
 
 2. Navigate to the project directory:
 
@@ -66,5 +66,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 
 This project is licensed under the [Apache-2.0 License](LICENSE).
 
-```
-```
